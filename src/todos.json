@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "title": "Study for statistics",
+      "responsible": "Edisson",
+      "description": "The next week is the statistics test, so... i need study for that...",
+      "priority": "medium"
+    },
+    {
+      "title": "Wash clothes",
+      "responsible": "Edisson",
+      "description": "I have to wash the clothes, I almost do not have clean clothes",
+      "priority": "high"
+    },
+    {
+      "title": "Post the react project",
+      "responsible": "Single Machine",
+      "description": "Is important share projects on GitHub, the people can find them",
+      "priority": "low"
+    }
+  ]
+}
