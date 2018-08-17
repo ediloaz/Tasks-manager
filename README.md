@@ -12,34 +12,7 @@ In the app the user can enter the data thought a simple form, the data is the fo
 
 When the data is complete (or if you want not) the "Add" button can be pressed. 
 
-![Screenshot of the input of data](https://raw.githubusercontent.com/ediloaz/Tasks-manager/master/settings/screenshot-interface-empty.gif)
-Screenshot of the interface without data
-
-![Screenshot of the interface with example data](https://raw.githubusercontent.com/ediloaz/Simplex-Algorithm/master/settings/screenshot-interface-example.png)
-Screenshot of the interface with example data
-
-## Output
-
-In a latex presentation is showed the result of this. The information is the following:
-* Cover (of the University)
-* Short explain about the Algorithm Simplex
-* Problem with math representation
-* Initial table
-* Intermediate tables
-* Final table
-* Solution
-* Special cases
-
-A .tex file is created and convert to pdf with *pdflatex command*  and is opened with *evince command*. All these files are saved in **Salida** folder.
-
-![Screenshot of the intermediate tables in the Output](https://raw.githubusercontent.com/ediloaz/Simplex-Algorithm/master/settings/screenshot-output.png)
-Screenshot of the intermediate tables in the Output
-
-Also, detected and explained if the problem had the following special cases:
-1. Not Limited Problem
-2. Not Feasible Problem
-3. Degenerated Problem
-4. Problem with multiple solutions
+![Gif of the input of data](https://raw.githubusercontent.com/ediloaz/Tasks-manager/master/settings/add_task.gif)
 
 
 ### Prerequisites
